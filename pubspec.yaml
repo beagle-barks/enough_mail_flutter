@@ -20,7 +20,7 @@ dependencies:
     # path: ../enough_mail_html
   enough_media: #^2.1.0
     git:
-      url: https://github.com/Enough-Software/enough_media.git
+      url: https://github.com/beagle-barks/enough_media.git #https://github.com/Enough-Software/enough_media.git
     # path: ../enough_media
   flutter_inappwebview: #^5.3.2
     #path: ../flutter_inappwebview
